@@ -11,6 +11,10 @@ public class GitTestFile {
 		this.name = name;
 	}
 
+	/**
+	 * This is some comment
+	 * @return
+	 */
 	public String getId() {
 		return id;
 	}
